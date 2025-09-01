@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 from telegram.error import Forbidden, BadRequest, TelegramError
 import re
 
-BOT_TOKEN = "8281683527:AAHNbugo01Cs2PeZKk_5zP9Z0oiN2NlwhsA"
+BOT_TOKEN = "BOT_TOKEN"
 
 # 🔹 SQLite3 bazasini ishga tushirish
 def init_db():
